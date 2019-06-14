@@ -98,6 +98,11 @@ h3 {
   input {
     font-size: 1.3rem;
   }
+  
+  #instr {
+    margin: 2.2rem;
+    padding: 5px;
+  }
 }
 
 @media (max-width: 500px) {
