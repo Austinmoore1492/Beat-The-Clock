@@ -11,8 +11,8 @@ Run Index.html in a browser or go here: [Beat The Clock](https://austinmoore1492
  Also added some commonly misspelled words, definitely for example, to help others spell them correctly.
  
  ## Author
- Brad Traversy [Traversy Media](https://www.traversymedia.com/)
- Austin Moore [My GitHub](https://github.com/Austinmoore1492)
+ 1. Brad Traversy [Traversy Media](https://www.traversymedia.com/)
+ 2. Austin Moore [My GitHub](https://github.com/Austinmoore1492)
  
  
  
