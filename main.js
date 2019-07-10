@@ -86,7 +86,7 @@ function init() {
   showWord(words);
   wordInput.addEventListener("input", startMatch);
   setInterval(countdown, 1000);
-  setInterval(checkStatus, 50);
+  setInterval(checkStatus, 500);
 }
 
 //show a word from words array
